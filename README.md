@@ -12,7 +12,7 @@ If we want to express ZarinPal’s point of view in one sentence, it would be si
 <p><b>01-</b>Edit File Config (Database) : <b>config.php</b></p>
 <p><b>02-</b>Import sql Tabale ex (2 Database) : <b>log , pay</b></p>
 <p><b>03-</b>Edit File Pay Address Cookie and Sandbox pay in verify.php and request.php : <b>Please Change All ip (192.168.1.9) to address server ex : acyber.ir</b></p>
-<p><b>04-</b>Run send HTML  :<b>GET Reqest</b></p>
+<p><b>04-</b>Run send HTML  :<b>GET request</b></p>
 
 
 # Contacts
