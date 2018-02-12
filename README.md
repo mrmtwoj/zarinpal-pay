@@ -22,5 +22,5 @@ If we want to express ZarinPal’s point of view in one sentence, it would be si
 <li>   E-Mail      :   mr.mtwoj@gmail.com
 <li>   Website     :   www.acyber.ir
 <li>   Twitter     :   <a href="https://twitter.com/MrMtwoj">@mrmtwoj</a>
-<li>   Github      :   https://github.com/mrmtwoj/ac-drupal
+<li>   Github      :   https://github.com/mrmtwoj/zarinpal-pay
 </ul>
