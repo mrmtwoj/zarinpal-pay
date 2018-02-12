@@ -1,11 +1,11 @@
 # Project Information
-<p><b><h6>Name Project :</b>Zarin Pal Payment Port</p>
+<p><b><h6>Name Project :</b> Zarin Pal Payment Port</p>
 <p><b>Last version  :</b>1.0.0</p>
 <p><b>Last updated :</b> 12/02/2018</p>
 <p><b>Programming language :</b> PHP</p>
 <p><b>Company name : </b><a target="_black" href="http://acyber.ir">acyber</a> (IT Security Lab Iran)</p></h6>
 # Zarinpal
-Build interactions using 4 web services modules in core: RESTful web services, Serialization, Hypertext Application Language (HAL), and HTTP Basic Authentication. Make Drupal the backbone for the unique series of external applications your project needs. Patch records in a CRM or marketing automation tool. Post to social platforms and send email campaigns from a Drupal site. Get granular control over which resources are available and how they’re accessed.
+If we want to express ZarinPal’s point of view in one sentence, it would be simplifying online payment process. Our effort in ZarinPal has always been to provide the most pioneering services in the context of web, mobile, debit card, POS and mPOS. Our goal is to simplify payment steps and increase successful payments to its maximum number at the time the payment decision is made, the fact that has been paid less attention to in Iran. This is true that paying fees is not common in Iran, but accepting the fact that providing services to users has costs, has convinced our users to have a logical payment. Of course, we also do our best to provide the best services along with reasonable fee rate to our users.
 # Contacts
 <ul>
 <li>   Author      :   Mohamamd javad Joshani Disfani (mr.mtwoj)
